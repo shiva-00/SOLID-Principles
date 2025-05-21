@@ -1,0 +1,14 @@
+D:\c#\practice12\pr_12\bin\Debug\net9.0\pr_12.exe
+D:\c#\practice12\pr_12\bin\Debug\net9.0\pr_12.deps.json
+D:\c#\practice12\pr_12\bin\Debug\net9.0\pr_12.runtimeconfig.json
+D:\c#\practice12\pr_12\bin\Debug\net9.0\pr_12.dll
+D:\c#\practice12\pr_12\bin\Debug\net9.0\pr_12.pdb
+D:\c#\practice12\pr_12\obj\Debug\net9.0\pr_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\practice12\pr_12\obj\Debug\net9.0\pr_12.AssemblyInfoInputs.cache
+D:\c#\practice12\pr_12\obj\Debug\net9.0\pr_12.AssemblyInfo.cs
+D:\c#\practice12\pr_12\obj\Debug\net9.0\pr_12.csproj.CoreCompileInputs.cache
+D:\c#\practice12\pr_12\obj\Debug\net9.0\pr_12.dll
+D:\c#\practice12\pr_12\obj\Debug\net9.0\refint\pr_12.dll
+D:\c#\practice12\pr_12\obj\Debug\net9.0\pr_12.pdb
+D:\c#\practice12\pr_12\obj\Debug\net9.0\pr_12.genruntimeconfig.cache
+D:\c#\practice12\pr_12\obj\Debug\net9.0\ref\pr_12.dll

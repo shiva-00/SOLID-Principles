@@ -1,0 +1,14 @@
+D:\c#\OCP\OCP\bin\Debug\net9.0\OCP.exe
+D:\c#\OCP\OCP\bin\Debug\net9.0\OCP.deps.json
+D:\c#\OCP\OCP\bin\Debug\net9.0\OCP.runtimeconfig.json
+D:\c#\OCP\OCP\bin\Debug\net9.0\OCP.dll
+D:\c#\OCP\OCP\bin\Debug\net9.0\OCP.pdb
+D:\c#\OCP\OCP\obj\Debug\net9.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\OCP\OCP\obj\Debug\net9.0\OCP.AssemblyInfoInputs.cache
+D:\c#\OCP\OCP\obj\Debug\net9.0\OCP.AssemblyInfo.cs
+D:\c#\OCP\OCP\obj\Debug\net9.0\OCP.csproj.CoreCompileInputs.cache
+D:\c#\OCP\OCP\obj\Debug\net9.0\OCP.dll
+D:\c#\OCP\OCP\obj\Debug\net9.0\refint\OCP.dll
+D:\c#\OCP\OCP\obj\Debug\net9.0\OCP.pdb
+D:\c#\OCP\OCP\obj\Debug\net9.0\OCP.genruntimeconfig.cache
+D:\c#\OCP\OCP\obj\Debug\net9.0\ref\OCP.dll
