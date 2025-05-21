@@ -1,17 +1,37 @@
 # SOLID Principles in C#
 
-This repository contains examples demonstrating the **SOLID principles** of object-oriented design using C#.
+This repository contains my practice implementations of the SOLID design principles in C#.
 
-## ✅ Principles Covered
+## What’s Done So Far
 
-- ✅ **S** - Single Responsibility Principle (SRP)
+- **SRP (Single Responsibility Principle)**  
+  Folder `SRP/` contains code demonstrating the Single Responsibility Principle.
 
-## 📁 Folder Structure
+- **OCP (Open/Closed Principle)**  
+  Folder `OCP/` contains code demonstrating the Open/Closed Principle.
 
+## What’s Next
 
-## 🚀 How to Run
+I will continue adding examples for the remaining principles:  
+- Liskov Substitution Principle (LSP)  
+- Interface Segregation Principle (ISP)  
+- Dependency Inversion Principle (DIP)
 
-Make sure you have the .NET SDK installed. Then navigate to the SRP folder and run:
+I plan to update this README as I add more content.
 
-```bash
-dotnet run
+## About SOLID Principles
+
+SOLID stands for:  
+- Single Responsibility  
+- Open/Closed  
+- Liskov Substitution  
+- Interface Segregation  
+- Dependency Inversion
+
+These principles help write clean, maintainable, and scalable code.
+
+---
+
+### How to Use
+
+Explore each folder to see code samples and explanations for each principle.
