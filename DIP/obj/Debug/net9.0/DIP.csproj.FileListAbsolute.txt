@@ -1,0 +1,15 @@
+D:\c#\SOLID\DIP\bin\Debug\net9.0\DIP.exe
+D:\c#\SOLID\DIP\bin\Debug\net9.0\DIP.deps.json
+D:\c#\SOLID\DIP\bin\Debug\net9.0\DIP.runtimeconfig.json
+D:\c#\SOLID\DIP\bin\Debug\net9.0\DIP.dll
+D:\c#\SOLID\DIP\bin\Debug\net9.0\DIP.pdb
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.AssemblyInfoInputs.cache
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.AssemblyInfo.cs
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.csproj.CoreCompileInputs.cache
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.sourcelink.json
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.dll
+D:\c#\SOLID\DIP\obj\Debug\net9.0\refint\DIP.dll
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.pdb
+D:\c#\SOLID\DIP\obj\Debug\net9.0\DIP.genruntimeconfig.cache
+D:\c#\SOLID\DIP\obj\Debug\net9.0\ref\DIP.dll
