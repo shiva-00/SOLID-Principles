@@ -1,32 +1,41 @@
 # SOLID Principles in C#
 
-This repository contains my practice implementations of the **SOLID** design principles in C#.
+This repository contains clean, practical implementations of the **SOLID** design principles using **C#**. Each principle is demonstrated with real-world-inspired examples to help understand and apply them effectively in object-oriented programming.
 
-## What’s Done So Far
+---
 
-- **SRP (Single Responsibility Principle)**  
-  Code samples demonstrating the Single Responsibility Principle are in the `SRP/` folder.
+## 🧱 What Are SOLID Principles?
 
-- **OCP (Open/Closed Principle)**  
-  Code samples demonstrating the Open/Closed Principle are in the `OCP/` folder.
+**SOLID** is an acronym for five principles that improve code quality, flexibility, and maintainability:
 
-- **LSP (Liskov Substitution Principle)**  
-  Code samples demonstrating the Liskov Substitution Principle are in the `LSP/` folder.
+- **S** – Single Responsibility Principle (SRP)  
+- **O** – Open/Closed Principle (OCP)  
+- **L** – Liskov Substitution Principle (LSP)  
+- **I** – Interface Segregation Principle (ISP)  
+- **D** – Dependency Inversion Principle (DIP)
 
-## What’s Next
+---
 
-I will continue adding examples for the remaining principles:  
-- Interface Segregation Principle (ISP)  
-- Dependency Inversion Principle (DIP)  
+## ✅ Implemented Principles
 
-The README will be updated regularly as new content is added.
+| Principle | Description | Folder |
+|----------|-------------|--------|
+| **SRP** | A class should have only one reason to change | [`/SRP`](./SRP) |
+| **OCP** | Entities should be open for extension, but closed for modification | [`/OCP`](./OCP) |
+| **LSP** | Subtypes must be substitutable for their base types | [`/LSP`](./LSP) |
+| **ISP** | Clients should not depend on interfaces they do not use | [`/ISP`](./ISP) |
+| **DIP** | High-level modules should not depend on low-level modules | [`/DIP`](./DIP) |
 
-## About SOLID Principles
+Each folder contains:
+- ✨ A real-world analogy  
+- 🧑‍💻 Clean C# implementation  
+- 📄 Well-commented code  
+- ✅ Console output for demonstration  
 
-**SOLID** is an acronym for five design principles that help write clean, maintainable, and scalable object-oriented code:
+---
 
-- **S**ingle Responsibility Principle  
-- **O**pen/Closed Principle  
-- **L**iskov Substitution Principle  
-- **I**nterface Segregation Principle  
-- **D**ependency Inversion Principle  
+## 💡 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/shiva-00/Solid-Principles.git
